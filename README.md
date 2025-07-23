@@ -438,18 +438,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with modern software engineering best practices
 - Inspired by state-of-the-art computer vision research
 
-## 📞 **Support**
-
-- 📧 **Email**: support@imageprocessing.ai
-- 💬 **Discord**: [Join our community](https://discord.gg/imageprocessing)
-- 📖 **Documentation**: [Read the docs](https://docs.imageprocessing.ai)
-- 🐛 **Issues**: [Report bugs](https://github.com/NaserRaoofi/Image-processing/issues)
-
----
-
-<div align="center">
-
-**Made with ❤️ by Senior ML Engineers for the Computer Vision Community**
 
 [⭐ Star us on GitHub](https://github.com/NaserRaoofi/Image-processing) • [🔄 Fork the repository](https://github.com/NaserRaoofi/Image-processing/fork) • [📢 Share with friends](https://twitter.com/intent/tweet?text=Check%20out%20this%20amazing%20image%20processing%20toolkit!)
 
